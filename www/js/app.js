@@ -44,6 +44,15 @@ angular.module('calculator', ['ionic', 'calculator.controllers', 'calculator.ser
         }
       }
     })
+    .state('tab.history', {
+      url: '/history',
+      views: {
+        'tab-history': {
+          templateUrl: 'templates/history.html',
+          controller: 'HistoryCtrl'
+        }
+      }
+    })
 
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/tab/main');

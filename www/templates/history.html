@@ -1,0 +1,17 @@
+
+
+<ion-view title="History">
+ <ion-nav-bar class="bar-stable nav-title-slide-ios7">
+      <ion-nav-back-button class="button-icon icon ion-chevron-left">
+        Back
+      </ion-nav-back-button>
+    </ion-nav-bar>
+	<ion-content class="has-header">
+		
+ <ion-list>
+        <ion-item ng-repeat="calculation in calculations">
+          #{{$index+1}} : {{calculation.expression}} -> {{calculation.output}}
+        </ion-item>
+
+	</ion-content>
+</ion-view>

@@ -1,0 +1,83 @@
+/*
+To customize the look and feel of Ionic, you can override the variables
+in ionic's _variables.scss file.
+
+For example, you might change some of the default colors:
+
+$light:                           #fff !default;
+$stable:                          #f8f8f8 !default;
+$positive:                        #4a87ee !default;
+$calm:                            #43cee6 !default;
+$balanced:                        #66cc33 !default;
+$energized:                       #f0b840 !default;
+$assertive:                       #ef4e3a !default;
+$royal:                           #8a6de9 !default;
+$dark:                            #444 !default;
+*/
+
+// The path for our ionicons font files, relative to the built CSS in www/css
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+$dark: #202020 !default;
+$darkGrey: #C8C9CB !default;
+$grey: #D5D6DA !default;
+$orange: #F78E11 !default;
+// Include all of Ionic
+@import "www/lib/ionic/scss/ionic";
+.row {
+
+	.button {
+		border-bottom-width: 0px;
+		background-color: $grey;
+		border-color: $dark;
+		font-size: 25px;
+		&[ng-click="reset()"] {
+			background-color: $darkGrey;
+		}
+	}
+	.operator {
+		background-color: $orange;
+	}
+
+	-webkit-box-flex: 0 !important;
+  -moz-box-flex: 0 !important;
+  -webkit-flex: 0 1 50% !important;
+  -ms-flex: 0 1 50% !important;
+  flex: 0 1 50% !important;
+  padding: 0px;
+}
+.pane>.button-bar>.button {
+		border-radius: 0px 0px 0px 0px;	
+}
+
+#output {	
+	text-align: right;	
+	background-color: $dark;	
+	h1 {
+		color:$light;
+		font-size: 70px;
+		vertical-align: center;
+	}
+}
+.tabs {
+	background-color: $dark;
+	.tab-item {
+		color: $light;
+	}
+}
+
+.scroll{
+  height: 100% !important;
+  display: -webkit-box !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  -webkit-box-direction: normal !important;
+  -moz-box-direction: normal !important;
+  -webkit-box-orient: vertical !important;
+  -moz-box-orient: vertical !important;
+  -webkit-flex-direction: column !important;
+  -ms-flex-direction: column !important;
+  flex-direction: column !important;
+
+}

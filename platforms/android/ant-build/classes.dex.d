@@ -1,0 +1,26 @@
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes.dex : \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavnishe/starter/BuildConfig.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavnishe/starter/Gavno.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavnishe/starter/R$attr.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavnishe/starter/R$drawable.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavnishe/starter/R$string.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavnishe/starter/R$xml.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavnishe/starter/R.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavno/starter/BuildConfig.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavno/starter/Gavno.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavno/starter/R$attr.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavno/starter/R$drawable.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavno/starter/R$string.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavno/starter/R$xml.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/gavno/starter/R.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/romanganchenko/calculator/BuildConfig.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/romanganchenko/calculator/Gavno.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/romanganchenko/calculator/R$attr.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/romanganchenko/calculator/R$drawable.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/romanganchenko/calculator/R$string.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/romanganchenko/calculator/R$xml.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/com/romanganchenko/calculator/R.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/grunz/Repos/phonegap/calculator/platforms/android/ant-build/dexedLibs/classes-c31788fa282dd34a1ee4ea1963199aca.jar \

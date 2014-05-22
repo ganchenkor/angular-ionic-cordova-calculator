@@ -33,6 +33,7 @@ $orange: #F78E11 !default;
 		&[ng-click="reset()"] {
 			background-color: $darkGrey;
 		}
+		border-radius: 0px;
 	}
 	.operator {
 		background-color: $orange;
@@ -40,9 +41,9 @@ $orange: #F78E11 !default;
 
 	-webkit-box-flex: 0 !important;
   -moz-box-flex: 0 !important;
-  -webkit-flex: 0 1 50% !important;
-  -ms-flex: 0 1 50% !important;
-  flex: 0 1 50% !important;
+  -webkit-flex: 0 1 100% !important;
+  -ms-flex: 0 1 100% !important;
+  flex: 0 1 100% !important;
   padding: 0px;
 }
 .pane>.button-bar>.button {
@@ -54,7 +55,7 @@ $orange: #F78E11 !default;
 	background-color: $dark;	
 	h1 {
 		color:$light;
-		font-size: 70px;
+		font-size: 60px;
 		vertical-align: center;
 	}
 }
@@ -63,6 +64,8 @@ $orange: #F78E11 !default;
 	.tab-item {
 		color: $light;
 	}
+	border-color: none;
+	background-image: none;
 }
 
 .scroll{

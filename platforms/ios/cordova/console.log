@@ -1,0 +1,64 @@
+2014-05-22 15:14:58.176 RomanCalculatorApp[88790:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-22 15:14:58.193 RomanCalculatorApp[88790:70b] Unlimited access to network resources
+2014-05-22 15:14:58.218 RomanCalculatorApp[88790:70b] [CDVTimer][keyboard] 0.091016ms
+2014-05-22 15:14:58.218 RomanCalculatorApp[88790:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-22 15:14:58.219 RomanCalculatorApp[88790:70b] [CDVTimer][statusbar] 0.485003ms
+2014-05-22 15:14:58.219 RomanCalculatorApp[88790:70b] [CDVTimer][TotalPluginStartup] 1.574993ms
+2014-05-22 15:14:58.324 RomanCalculatorApp[88790:70b] Resetting plugins due to page load.
+2014-05-22 15:14:58.612 RomanCalculatorApp[88790:70b] Finished load of: file:///Users/grunz/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9E52AF92-0884-45F9-8BE3-93D0A58C83FE/RomanCalculatorApp.app/www/index.html#/tab/main
+2014-05-22 15:26:39.231 RomanCalculatorApp[89401:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-22 15:26:39.241 RomanCalculatorApp[89401:70b] Unlimited access to network resources
+2014-05-22 15:26:39.261 RomanCalculatorApp[89401:70b] [CDVTimer][keyboard] 0.092030ms
+2014-05-22 15:26:39.262 RomanCalculatorApp[89401:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-22 15:26:39.262 RomanCalculatorApp[89401:70b] [CDVTimer][statusbar] 0.504017ms
+2014-05-22 15:26:39.263 RomanCalculatorApp[89401:70b] [CDVTimer][TotalPluginStartup] 1.648962ms
+2014-05-22 15:26:39.308 RomanCalculatorApp[89401:70b] Resetting plugins due to page load.
+2014-05-22 15:26:39.488 RomanCalculatorApp[89401:70b] Finished load of: file:///Users/grunz/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9E52AF92-0884-45F9-8BE3-93D0A58C83FE/RomanCalculatorApp.app/www/index.html#/tab/main
+2014-05-22 15:28:47.902 RomanCalculatorApp[89809:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-22 15:28:47.911 RomanCalculatorApp[89809:70b] Unlimited access to network resources
+2014-05-22 15:28:47.930 RomanCalculatorApp[89809:70b] [CDVTimer][keyboard] 0.091016ms
+2014-05-22 15:28:47.931 RomanCalculatorApp[89809:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-22 15:28:47.931 RomanCalculatorApp[89809:70b] [CDVTimer][statusbar] 0.407994ms
+2014-05-22 15:28:47.932 RomanCalculatorApp[89809:70b] [CDVTimer][TotalPluginStartup] 1.476049ms
+2014-05-22 15:28:48.025 RomanCalculatorApp[89809:70b] Resetting plugins due to page load.
+2014-05-22 15:28:48.216 RomanCalculatorApp[89809:70b] Finished load of: file:///Users/grunz/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9E52AF92-0884-45F9-8BE3-93D0A58C83FE/RomanCalculatorApp.app/www/index.html#/tab/main
+2014-05-22 15:29:51.776 RomanCalculatorApp[90142:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-22 15:29:51.782 RomanCalculatorApp[90142:70b] Unlimited access to network resources
+2014-05-22 15:29:51.797 RomanCalculatorApp[90142:70b] [CDVTimer][keyboard] 0.058949ms
+2014-05-22 15:29:51.797 RomanCalculatorApp[90142:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-22 15:29:51.797 RomanCalculatorApp[90142:70b] [CDVTimer][statusbar] 0.347972ms
+2014-05-22 15:29:51.798 RomanCalculatorApp[90142:70b] [CDVTimer][TotalPluginStartup] 1.132011ms
+2014-05-22 15:29:51.831 RomanCalculatorApp[90142:70b] Resetting plugins due to page load.
+2014-05-22 15:29:51.966 RomanCalculatorApp[90142:70b] Finished load of: file:///Users/grunz/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9E52AF92-0884-45F9-8BE3-93D0A58C83FE/RomanCalculatorApp.app/www/index.html#/tab/main
+2014-05-22 15:30:04.168 RomanCalculatorApp[90142:70b] 81
+Terminating in response to SpringBoard's termination.
+2014-05-22 15:30:49.701 RomanCalculatorApp[90676:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-22 15:30:49.707 RomanCalculatorApp[90676:70b] Unlimited access to network resources
+2014-05-22 15:30:49.722 RomanCalculatorApp[90676:70b] [CDVTimer][keyboard] 0.056028ms
+2014-05-22 15:30:49.723 RomanCalculatorApp[90676:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-22 15:30:49.723 RomanCalculatorApp[90676:70b] [CDVTimer][statusbar] 0.447989ms
+2014-05-22 15:30:49.724 RomanCalculatorApp[90676:70b] [CDVTimer][TotalPluginStartup] 1.358986ms
+2014-05-22 15:30:49.801 RomanCalculatorApp[90676:70b] Resetting plugins due to page load.
+2014-05-22 15:30:49.990 RomanCalculatorApp[90676:70b] Finished load of: file:///Users/grunz/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9E52AF92-0884-45F9-8BE3-93D0A58C83FE/RomanCalculatorApp.app/www/index.html#/tab/main
+2014-05-22 15:30:59.153 RomanCalculatorApp[90676:70b] -1
+2014-05-22 15:31:01.769 RomanCalculatorApp[90676:70b] 2
+2014-05-22 15:31:05.166 RomanCalculatorApp[90676:70b] 5
+2014-05-22 15:31:43.965 RomanCalculatorApp[91047:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-22 15:31:43.971 RomanCalculatorApp[91047:70b] Unlimited access to network resources
+2014-05-22 15:31:43.986 RomanCalculatorApp[91047:70b] [CDVTimer][keyboard] 0.060976ms
+2014-05-22 15:31:43.986 RomanCalculatorApp[91047:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-22 15:31:43.986 RomanCalculatorApp[91047:70b] [CDVTimer][statusbar] 0.399947ms
+2014-05-22 15:31:43.987 RomanCalculatorApp[91047:70b] [CDVTimer][TotalPluginStartup] 1.354992ms
+2014-05-22 15:31:44.066 RomanCalculatorApp[91047:70b] Resetting plugins due to page load.
+2014-05-22 15:31:44.242 RomanCalculatorApp[91047:70b] Finished load of: file:///Users/grunz/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9E52AF92-0884-45F9-8BE3-93D0A58C83FE/RomanCalculatorApp.app/www/index.html#/tab/main
+2014-05-22 15:32:31.638 RomanCalculatorApp[91385:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-22 15:32:31.645 RomanCalculatorApp[91385:70b] Unlimited access to network resources
+2014-05-22 15:32:31.663 RomanCalculatorApp[91385:70b] [CDVTimer][keyboard] 0.057995ms
+2014-05-22 15:32:31.663 RomanCalculatorApp[91385:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-22 15:32:31.664 RomanCalculatorApp[91385:70b] [CDVTimer][statusbar] 0.409007ms
+2014-05-22 15:32:31.664 RomanCalculatorApp[91385:70b] [CDVTimer][TotalPluginStartup] 1.268029ms
+2014-05-22 15:32:31.741 RomanCalculatorApp[91385:70b] Resetting plugins due to page load.
+2014-05-22 15:32:31.866 RomanCalculatorApp[91385:70b] Finished load of: file:///Users/grunz/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9E52AF92-0884-45F9-8BE3-93D0A58C83FE/RomanCalculatorApp.app/www/index.html#/tab/main
+2014-05-22 15:33:16.811 RomanCalculatorApp[91385:70b] 1
+2014-05-22 15:33:20.162 RomanCalculatorApp[91385:70b] 0.1111111111111111
+2014-05-22 15:33:31.241 RomanCalculatorApp[91385:70b] 15
